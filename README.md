@@ -11,6 +11,6 @@ Currently, two official plugins are available:
 `
 npm run dev
 `
-Shopping Card
+
 
 -[Live site]
